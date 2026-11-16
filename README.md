@@ -104,6 +104,7 @@ Vous devez implémenter un jeu de loto qui simule le tirage de boules numéroté
 
 
 ### Exemple d'exécution
+À titre indicatif seulement, veuillez ajuster selon vos règles de gains
 ![exécution](exemple.png)
 
 ### Barème
